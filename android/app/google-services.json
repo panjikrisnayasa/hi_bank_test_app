@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "584741062649",
+    "project_id": "hi-bank-test-app",
+    "storage_bucket": "hi-bank-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584741062649:android:6b037853a299f596791f28",
+        "android_client_info": {
+          "package_name": "com.hibank.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584741062649-rc1fv0vjb8d19fush687v8km84dain8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWXizn-57cHFwPELCzcd6TBVWnQCqMoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584741062649-rc1fv0vjb8d19fush687v8km84dain8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584741062649-27pf8ns62k4a3qmg4rncm68cbjfcqrs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hibank.testapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
