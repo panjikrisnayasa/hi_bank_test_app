@@ -1,6 +1,20 @@
 {
+  "postApp": "Post App",
   "tryAgain": "Coba Lagi",
   "failedToFetchData": "Gagal mengambil data",
   "loading": "Loading...",
-  "noData": "Tidak ada data"
+  "noData": "Tidak ada data",
+  "welcome": "Selamat Datang!",
+  "signInWithGoogle": "Masuk dengan Google",
+  "signInFailed": "Gagal masuk, silakan coba lagi",
+  "postList": "Daftar Post",
+  "account": "Akun",
+  "searchPostById": "Cari post berdasarkan ID",
+  "userId": "User ID",
+  "postId": "Post ID",
+  "signOut": "Keluar",
+  "signOutConfirmation": "Apakah Anda yakin ingin keluar?",
+  "cancel": "Batal",
+  "userNotFound": "User tidak ditemukan",
+  "signOutFailed": "Gagal keluar, silakan coba lagi"
 }
