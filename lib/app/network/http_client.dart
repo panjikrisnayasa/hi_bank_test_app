@@ -17,6 +17,7 @@ class HttpClient {
       receiveTimeout: const Duration(seconds: 30),
       headers: {
         Headers.acceptHeader: Headers.jsonContentType,
+        Headers.contentTypeHeader: Headers.jsonContentType,
       },
     );
     _dio = Dio(options);
