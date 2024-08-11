@@ -33,3 +33,6 @@ An app for Hi Bank technical test.
 
 ## Screenshots, Screen Records, and APK
 https://drive.google.com/drive/folders/1Suma0qGaYzg1hhQ3ZPMJB6gl7A3M2a5g?usp=sharing
+
+## Flow coding explanation
+https://youtu.be/AA0aXwv4wh8?si=719br1w6g4QP8hzg
