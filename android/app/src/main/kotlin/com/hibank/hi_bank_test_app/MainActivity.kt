@@ -1,4 +1,4 @@
-package com.hibank.hi_bank_test_app
+package com.hibank.testapp
 
 import io.flutter.embedding.android.FlutterActivity
 
