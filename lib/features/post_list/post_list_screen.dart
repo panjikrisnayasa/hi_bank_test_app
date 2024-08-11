@@ -72,6 +72,7 @@ class _PostListScreenState extends ConsumerState<PostListScreen>
           ),
         ),
         textInputAction: TextInputAction.search,
+        keyboardType: TextInputType.number,
         onChanged: ref.read(_controller.notifier).onSearch,
       ),
     );
